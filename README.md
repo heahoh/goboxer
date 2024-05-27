@@ -1,2 +1,2 @@
 # goboxer
-Transactional outbox implementation on go
+Transactional outbox implementation in go
